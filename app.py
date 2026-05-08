@@ -218,7 +218,7 @@ else:
     st.sidebar.warning("Not logged in")
 
 # ---------------- HEADER ----------------
-st.title("🔐 Secure Three-Phase P2P Authentication System")
+st.title("🔐 Design and Implementation of a Triple-Staged Crypto Authentication Technique for Peer-to-Peer (P2P) Online Learning Application")
 st.caption("Python + Streamlit + SQLite + RSA + Session Key + Secure Login")
 st.markdown("---")
 
